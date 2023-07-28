@@ -31,9 +31,5 @@ public class calc {
 	public void setOpp(String opp) {
 		this.opp = opp;
 	}
-	
-	//if(opp == '+') {
-	//	return num1 + num2;
-	//}
  
 }
